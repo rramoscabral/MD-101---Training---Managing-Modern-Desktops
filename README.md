@@ -49,7 +49,7 @@ Candidates must be familiar with Microsoft 365 workloads and must be proficient 
 <br>
 
 #### Free eBooks
- * (Windows 10 IT Pro Essentials Support Secrets, Ed Bott, 2016/08/29 )[https://aka.ms/Win10Supp/MobPDF] 
+ * [Windows 10 IT Pro Essentials Support Secrets, Ed Bott, 2016/08/29](https://aka.ms/Win10Supp/MobPDF)
 
 <br>
 
