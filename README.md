@@ -49,7 +49,10 @@ Candidates must be familiar with Microsoft 365 workloads and must be proficient 
 <br>
 
 #### Free eBooks
+ * [Integrating Microsoft Intune/Enterprise Mobility Suite with NetScaler (LDAP+OTP Scenario), Citrix, 2017](https://www.citrix.com/content/dam/citrix/en_us/documents/guide/integrating-microsoft-intune-enterprise-mobility-suite-with-netscaler.pdf)
+ * [Introducing Windows 10 for IT Professionals Technical Overview, Ed Bott, 2016/01/28](https://aka.ms/introwin10/PDF)
  * [Windows 10 IT Pro Essentials Support Secrets, Ed Bott, 2016/08/29](https://aka.ms/Win10Supp/MobPDF)
+ * [Microsoft Intune privacy and data protection overview, Microsoft, 2018/03]
 
 <br>
 
