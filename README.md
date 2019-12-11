@@ -3,7 +3,7 @@ MD-101 Training for Microsoft Official Course (MOC) MD-101 Managing Modern Deskt
 
 <br>
 
-<intro>
+The course Managing Modern Desktops will help you understand how to deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment.
   
 <br>
 
@@ -49,11 +49,12 @@ Candidates must be familiar with Microsoft 365 workloads and must be proficient 
 <br>
 
 #### Free eBooks
- *
+ * (Windows 10 IT Pro Essentials Support Secrets, Ed Bott, 2016/08/29 )[https://aka.ms/Win10Supp/MobPDF] 
 
 <br>
 
 #### Labs
- *
+ * Windows 10 build 1809 or higher and Microsoft Office 365 tenant is recommended for labs.
+
  
 <br>
