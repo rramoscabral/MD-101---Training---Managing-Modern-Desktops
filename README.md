@@ -1,4 +1,4 @@
-# MD-101-Training-ManagingModernDesktopsOps
+# MD-101 - Training - Managing Modern Desktops
 MD-101 Training for Microsoft Official Course (MOC) MD-101 Managing Modern Desktops
 
 <br>
