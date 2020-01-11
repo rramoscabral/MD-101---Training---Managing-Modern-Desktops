@@ -19,7 +19,7 @@ The courses area as follows:
 | 02 | Deploying Windows 10 | 35-40% |
 | 03 | Managing Updates for Windows 10 | 35-40% |
 | 04 | Device Enrollment | 20-25% |
-| 05 | Configuring Profiles | 25-30%) |
+| 05 | Configuring Profiles | 25-30% |
 | 06 | Application Management | 10-15% |
 | 07 | Managing Identity in Azure AD |25-30% |
 | 08 | Managing Device Authentication and Compliance | 35-40% |
