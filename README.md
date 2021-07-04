@@ -81,16 +81,37 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
   
 <br>
 
+
+### Workshops
+----------
+
+ * No information / Available when possible
+
+<br>
+
+
+
 ### Deployment
 ----------
  * [Demonstrate Autopilot deployment](https://docs.microsoft.com/en-us/windows/deployment/windows-autopilot/demonstrate-deployment-on-vm)
+ * [Microsoft Win32 Content Prep Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool)
+ * [MSIX Packaging Tool](https://docs.microsoft.com/en-us/windows/msix/packaging-tool/tool-overview)
+ * [Preparing your organization for a seamless Windows 10 deployment](https://www.microsoft.com/en-us/itshowcase/preparing-your-organization-for-a-seamless-windows-10-deployment)
+ * [Windows Autopilot Deployment for existing devices](https://docs.microsoft.com/en-us/mem/autopilot/existing-devices)
+ * [Windows Configuration Designer](https://docs.microsoft.com/en-us/windows/configuration/provisioning-packages/provisioning-install-icd)
+ * [Windows Insider blog](https://blogs.windows.com/windows-insider/)
 
 <br>
 
 ### Resources
 ----------
+ * [About Genuine Windows](https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493)
+ * [Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+ * [Conditional Access and Intune](https://docs.microsoft.com/en-us/mem/intune/protect/conditional-access)
+ * [Remote Work technical guide](https://aka.ms/ERW)
  * [Microsoft Endpoint Manager documentation](https://docs.microsoft.com/en-us/mem/)
  * [Microsoft Cybersecurity Reference Architectures (MCRA)](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true)
+ * [Productivity Library](https://support.microsoft.com/en-us/office/productivity-library-d8ab82a5-5f02-4439-816b-4a5d35133e48)
  * [Windows Autopilot documentation](https://docs.microsoft.com/en-us/mem/autopilot/)
  
 
