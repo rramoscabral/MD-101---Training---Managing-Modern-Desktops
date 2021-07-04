@@ -107,6 +107,7 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
  * [Windows 10 Desktop Operating System Commercial Licensing, Microsoft, 2019/04 ](https://download.microsoft.com/download/2/d/1/2d14fe17-66c2-4d4c-af73-e122930b60f6/windows-10-volume-licensing-guide.pdf)
  * [Windows 10 IT Pro Essentials Support Secrets, Ed Bott, 2016/08/29](https://aka.ms/Win10Supp/MobPDF)
 
+ <br>
 
 ### Videos
 ----------
@@ -127,7 +128,7 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
  * No information / Available when possible
 
 
-
+ <br>
 
 ### Windows 10 download options
 ----------
