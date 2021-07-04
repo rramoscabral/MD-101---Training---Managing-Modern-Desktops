@@ -125,3 +125,13 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
 ### Community
 ----------
  * No information / Available when possible
+
+
+
+
+### Windows 10 download options
+----------
+* [Volume Licensing Service Center to download Enterprise editions](https://www.microsoft.com/licensing/servicecenter/default.aspx)
+* [MSDN subscription Portal for MSDN downloads](https://my.visualstudio.com/downloads)
+* [Windows Insider site to download Insider Preview builds](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+* [Academic Products page for Education editions (product key required)](https://www.microsoft.com/en-us/software-download/vlacademicwindows10) 
