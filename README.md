@@ -9,19 +9,22 @@ Training for Microsoft Official Course (MOC) MD-101: Managing Modern Desktops
 The course Managing Modern Desktops will help you understand how to deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment.
   
 <br>
+
 MD-101 was update to five-days sequential course and has nine areas of study .
+
+<br>
  
-| Module | Study Areas | Exam Weights |
-| --- | --- | --- |
-| 01 | Planning a Deployment Strategy  | 35-40%|
-| 02 | Deploying Windows 10 | 35-40% |
-| 03 | Managing Updates for Windows 10 | 35-40% |
-| 04 | Device Enrollment | 20-25% |
-| 05 | Configuring Profiles | 25-30% |
-| 06 | Application Management | 10-15% |
-| 07 | Managing Identity in Azure AD |25-30% |
-| 08 | Managing Device Authentication and Compliance | 35-40% |
-| 09 | Managing Security | 20-25% |
+| Module | Study Areas |
+| --- | --- |
+| 01 | Planning a Deployment Strategy  |
+| 02 | Deploying Windows 10 | 
+| 03 | Managing Updates for Windows 10 |
+| 04 | Device Enrollment | 
+| 05 | Configuring Profiles | 
+| 06 | Application Management | 
+| 07 | Managing Identity in Azure AD |
+| 08 | Managing Device Authentication and Compliance |
+| 09 | Managing Security | 
 
 
 <br>
@@ -32,12 +35,23 @@ Candidates must be familiar with Microsoft 365 workloads and must be proficient 
 
 The exan measures your ability to accomplish the following technical tasks:
  * Deploy and update operating systems;
- * Manage policies and profiles; manage and protect devices;
+ * Manage policies and profiles; 
+ * manage and protect devices;
  * Manage apps and data.
 
 [Consult the Skills measured.](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101)
- 
 
+<br>
+
+### About the certification
+
+Modern Desktop Administrators deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment.
+
+ * **Required exams**: [MD-100](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/) **+** [MD-101](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/)
+
+[Microsoft 365 Certified: Modern Desktop Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/)
+
+ 
 <br>
 
  ### Azure command-line tools
@@ -49,14 +63,36 @@ The exan measures your ability to accomplish the following technical tasks:
 
 ### Labs and workshops
 ----------
-  * No information / Available when possible
+  * [Windows and Office Deployment Lab Kit](https://docs.microsoft.com/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 
-  **Note:**  Windows 10 build 1809 or higher and Microsoft 365 tenant is recommended for labs.
+  **Note:**  Windows 10 build 20H2 or higher and Microsoft 365 tenant with E5 licenses are recommended for labs.
 
+
+<br>
+
+### Interactive Guides
+----------
+
+| Topic | Guide  |
+| --- | --- |
+| Microsoft Endpoint Manager | [Manage Devices with Microsoft Endpoint Manager](https://aka.ms/Manage_devices_with_Microsoft_Intune_Interactive_Guide)
+| Microsoft Endpoint Manager | [Manage Apps with Microsoft](https://aka.ms/Manage_apps_with_Microsoft_Intune_Interactive_Guide) |
+  
+<br>
+
+### Deployment
+----------
+ * [Demonstrate Autopilot deployment](https://docs.microsoft.com/en-us/windows/deployment/windows-autopilot/demonstrate-deployment-on-vm)
+
+<br>
 
 ### Resources
 ----------
- * No information / Available when possible
+ * [Microsoft Endpoint Manager documentation](https://docs.microsoft.com/en-us/mem/)
+ * [Microsoft Cybersecurity Reference Architectures (MCRA)](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true)
+ * [Windows Autopilot documentation](https://docs.microsoft.com/en-us/mem/autopilot/)
+ 
+
 
 <br>
 
