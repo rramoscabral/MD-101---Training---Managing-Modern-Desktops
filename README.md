@@ -5,7 +5,7 @@ Training for Microsoft Official Course (MOC) MD-101: Managing Modern Desktops
 <br>
 
 ### About the course
-
+----------
 The course Managing Modern Desktops will help you understand how to deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment.
   
 <br>
@@ -30,7 +30,7 @@ MD-101 was update to five-days sequential course and has nine areas of study .
 <br>
 
 ### About the exam
-
+----------
 Candidates must be familiar with Microsoft 365 workloads and must be proficient and experienced in deploying, configuring, and maintaining Windows 10 and non-Windows devices and technologies
 
 The exan measures your ability to accomplish the following technical tasks:
@@ -44,7 +44,7 @@ The exan measures your ability to accomplish the following technical tasks:
 <br>
 
 ### About the certification
-
+----------
 Modern Desktop Administrators deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment.
 
  * **Required exams**: [MD-100](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/) **+** [MD-101](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/)
@@ -55,6 +55,7 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
 <br>
 
  ### Azure command-line tools
+ ----------
  Manage your Azure services and apps using scripts from the command line.
   * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM modules.
 
