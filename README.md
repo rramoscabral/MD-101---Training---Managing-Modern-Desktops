@@ -12,7 +12,7 @@ The course Managing Modern Desktops will help you understand how to deploy, conf
 
 MD-101 was update to five-days sequential course and has nine areas of study.
  * [Course outline](https://docs.microsoft.com/en-us/learn/certifications/courses/md-101t00)
- * 
+ 
 <br>
  
 | Module | Study Areas |
