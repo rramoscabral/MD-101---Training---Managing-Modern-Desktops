@@ -78,7 +78,7 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
 | Topic | Guide  |
 | --- | --- |
 | Microsoft Endpoint Manager | [Manage Devices with Microsoft Endpoint Manager](https://aka.ms/Manage_devices_with_Microsoft_Intune_Interactive_Guide)
-| Microsoft Endpoint Manager | [Manage Apps with Microsoft](https://aka.ms/Manage_apps_with_Microsoft_Intune_Interactive_Guide) |
+| Microsoft Endpoint Manager | [Manage and protect mobile and desktop applications](https://aka.ms/Manage_apps_with_Microsoft_Intune_Interactive_Guide) |
   
 <br>
 
