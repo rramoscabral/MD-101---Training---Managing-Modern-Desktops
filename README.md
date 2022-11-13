@@ -115,7 +115,7 @@ Require **[two](https://docs.microsoft.com/en-us/learn/certifications/modern-des
 
   * [Windows and Office Deployment Lab Kit](https://docs.microsoft.com/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 
-  > **Note:**  Windows 10 build 20H2 or higher and Microsoft 365 tenant with E5 licenses are recommended for labs.
+    > **Note:**  Windows 10 build 20H2 or higher and Microsoft 365 tenant with E5 licenses are recommended for labs.
 
 
 <br/>
