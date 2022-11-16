@@ -6,8 +6,6 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 Training for Microsoft Official Course (MOC) MD-101: Managing Modern Desktops
 
-Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
-
 - [About the course](#about-the-course)
 - [Exam certification](#exam-certification)
 - [Azure command-line tools](#azure-command-lines)
