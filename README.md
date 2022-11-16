@@ -11,6 +11,7 @@ Training for Microsoft Official Course (MOC) MD-101: Managing Modern Desktops
 - [Azure command-line tools](#azure-command-lines)
 - [Hands-on Labs and workshops](#hands-on-labs)
 - [Interactive Guides](#interactive-guides)
+- [Acronyms](#acronyms)
 - [Resources](#resources)
 - [Free eBooks](#free-ebooks)
 - [Windows 10 download options](#windows-download-options)
@@ -142,7 +143,26 @@ Require **[two](https://docs.microsoft.com/en-us/learn/certifications/modern-des
 
 <br/>
 
+
 ---
+
+<a id="acronyms" />
+
+<br/>
+
+## Acronyms
+
+
+[**Here**](./Acronyms.md) you can consult a list of acronyms used in this training.
+  
+<br/>
+
+[Return to top](#top)
+
+<br/>
+
+---
+
 
 <a id="azure-command-lines" />
 
