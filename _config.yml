@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title:  MD-101 - Training - Managing-Modern-Desktops
-description: Companion material and resources for the course 'Designing and Implementing Microsoft DevOps solutions' delivery by Ricardo Cabral 
+description: Companion material and resources for the course 'Managing Modern Desktops' delivery by Ricardo Cabral 
 relative_links:
   enabled: true
   collections: true
