@@ -61,7 +61,7 @@ Modern Desktop Administrators deploy, configure, secure, manage, and monitor dev
 
  * **Required exams**: [MD-100](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/) **+** [MD-101](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/)
 
-[Microsoft 365 Certified: Modern Desktop Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop
+[Microsoft 365 Certified: Modern Desktop Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop)
 
 
 
