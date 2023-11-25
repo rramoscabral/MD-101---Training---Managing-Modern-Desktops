@@ -1,4 +1,4 @@
-[**Back to main**](./README.md)
+[**Back to main**](./README.md) | [**Back to resources**](./resources.md) 
 
 <br/>
 
@@ -71,4 +71,4 @@ List of acronyms used in this training.
 
 <br/>
 
-[**Back to main**](./README.md)
+[**Back to main**](./README.md) | [**Back to resources**](./resources.md) 

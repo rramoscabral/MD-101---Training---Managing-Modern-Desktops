@@ -1,4 +1,4 @@
-[**Back to main**](./README.md)
+[**Back to main**](./README.md) | [**Back to about the course**](./about-the-course.md)
 
 <br/>
 
@@ -19,4 +19,4 @@
 
 <br/>
 
-[**Back to main**](./README.md)
+[**Back to main**](./README.md) | [**Back to about the course**](./about-the-course.md)

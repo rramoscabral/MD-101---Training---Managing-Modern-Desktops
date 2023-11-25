@@ -1,5 +1,4 @@
-[**Back to main**](./README.md)
-
+[**Back to main**](./README.md) | [**Back to about the course**](./about-the-course.md)
 <br/>
 
 # Course outline 2022
@@ -20,4 +19,4 @@
 
 <br/>
 
-[**Back to main**](./README.md)
+[**Back to main**](./README.md) | [**Back to about the course**](./about-the-course.md)

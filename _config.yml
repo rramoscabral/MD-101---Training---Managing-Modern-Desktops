@@ -1,8 +1,14 @@
 theme: jekyll-theme-slate
-title:  MD-101 - Training - Managing-Modern-Desktops
+title: MD-101 - Training - Managing-Modern-Desktops
 description: Companion material and resources for the course 'Managing Modern Desktops' delivery by Ricardo Cabral 
 relative_links:
   enabled: true
   collections: true
+exclude:
+  - .github/
 include:
   - README.md
+author: Ricardo Cabral
+twitter_username: rramoscabral
+github_username:  rramoscabral
+
