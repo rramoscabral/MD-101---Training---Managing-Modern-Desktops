@@ -56,7 +56,7 @@ Required software to run the course and workshop hands-on labs available [**here
 
 <br/>
 
-> ***Note:*** The following workshops were not written/designed by me. They allow you to delve further into the Power Platfrom. Workshops are maintained by Microsoft, which reserves the right to remove or archive it in read-only mode on GitHub without notice.
+> ***Note:*** The following workshops were not written/designed by me. Workshops are maintained by Microsoft, which reserves the right to remove or archive it in read-only mode on GitHub without notice.
 
 * [Windows and Office Deployment Lab Kit](https://docs.microsoft.com/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 
