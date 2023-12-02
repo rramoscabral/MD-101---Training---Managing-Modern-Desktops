@@ -16,7 +16,7 @@
 
 <br/>
 
-Oficial PL-400 Hands-on Labs
+Oficial MD-101 Hands-on Labs
 
 * ***MD-101*** official course lab instructions is available [**here**](https://microsoftlearning.github.io/MD-101-Managing-Modern-Desktops/). 
 * You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops)
